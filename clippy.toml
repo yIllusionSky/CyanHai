@@ -1,0 +1,2 @@
+# 不使用标准库的哈希函数
+disallowed-types = ["std::collections::HashMap", "std::collections::HashSet"]
