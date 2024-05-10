@@ -4,17 +4,19 @@
 TODO: 添加项目徽章
 
 <!-- PROJECT LOGO -->
-<div style="text-align: center;">
-    <img src="images/logo.png" alt="Logo" width="128" height="128">
+<p align="center">
+  <img src="images/logo.png" alt="Logo" width="128" height="128">
+</p>
 
+<h3 align="center">CyanHai</h3>
+<p align="center">
+  安全，保密，本地化，可跨平台运行程序的聊天软件。
+</p>
 
-<h3>CyanHai</h3>
-安全，保密，本地化，可跨平台运行程序的聊天软件。
-<br>
-**[更新日志](docs/update.md) ·**
-**[计划目录](docs/plan.md) ·**
-
-</div>
+<p align="center">
+  <a href="docs/update.md">更新日志</a> ·
+  <a href="docs/plan.md">计划目录</a>
+</p>
 
 > My English level is not good. I will use my native language
 > for now. If the project becomes bigger later (I am not sure)
